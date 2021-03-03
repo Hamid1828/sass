@@ -1,0 +1,39 @@
+.table h1 {
+  color: #435179;
+  font-size: 24px;
+}
+
+table {
+  margin-left: 40px;
+  border-collapse: collapse;
+  width: 632px;
+}
+table thead {
+  height: 70px;
+}
+table tbody {
+  height: 62px;
+  border-radius: 15px;
+}
+table tbody tr {
+  margin: 30px 0px;
+  background: white;
+}
+table td {
+  padding: 15px;
+  text-align: left;
+  font-size: 14px;
+  color: #435179;
+}
+table th {
+  font-size: 16px;
+  color: #435179;
+  padding: 15px;
+  text-align: left;
+}
+
+main {
+  display: flex;
+}
+
+/*# sourceMappingURL=table.css.map */

@@ -1,0 +1,156 @@
+.section-1 {
+  display: flex;
+}
+.section-1 .sect-span-1 {
+  display: flex;
+}
+.section-1 .sect-span-1 .first-block {
+  margin: 0px 15px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 33px;
+  height: 119px;
+  width: 299px;
+  border-radius: 25px;
+  background: #ffff;
+}
+.section-1 .sect-span-1 .first-block .span-block {
+  padding: 0;
+}
+.section-1 .sect-span-1 .first-block .span-block h3 {
+  padding-top: 10px;
+  color: #435179;
+  font-size: 42px;
+  line-height: 0;
+}
+.section-1 .sect-span-1 .first-block .span-block p {
+  color: #747c93;
+  line-height: 0;
+}
+.section-1 .sect-span-1 .second-block {
+  margin: 0px 15px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 33px;
+  height: 119px;
+  width: 299px;
+  border-radius: 25px;
+  background: #6461f2;
+}
+.section-1 .sect-span-1 .second-block .span-block {
+  padding: 0;
+}
+.section-1 .sect-span-1 .second-block .span-block h3 {
+  padding-top: 10px;
+  color: white;
+  font-size: 42px;
+  line-height: 0;
+}
+.section-1 .sect-span-1 .second-block .span-block p {
+  color: white;
+  line-height: 0;
+}
+.section-1 .sect-span-2 {
+  margin-top: 32px;
+  display: flex;
+}
+.section-1 .sect-span-2 .price {
+  margin: 0px 15px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 33px;
+  background: #fca13a;
+  height: 119px;
+  width: 299px;
+  border-radius: 25px;
+}
+.section-1 .sect-span-2 .price span p {
+  font-size: 16px;
+  color: white;
+  line-height: 0;
+}
+.section-1 .sect-span-2 .price span h3 {
+  line-height: 0;
+  font-size: 42px;
+  color: white;
+}
+
+.price-2 {
+  margin: 0px 15px;
+  height: 119px;
+  width: 350px;
+  border-radius: 25px;
+  background: white;
+  display: flex;
+  padding-left: 20px;
+}
+
+.imgs {
+  padding-top: 5px;
+  padding-left: 30px;
+}
+.imgs p {
+  color: #435179;
+  font-size: 12px;
+}
+
+.message {
+  height: 443px;
+  width: 307px;
+  border-radius: 0px;
+  background: #e4e8f4;
+}
+.message .message-span {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 27px;
+}
+.message .message-span h2 {
+  color: #435179;
+  font-size: 24px;
+  line-height: 0;
+  padding-top: 15px;
+}
+.message .message-span p {
+  color: #435179;
+  font-size: 25px;
+}
+.message .accord {
+  height: 279px;
+  width: 287px;
+  background: white;
+  border-radius: 15px;
+  margin: 0px 8px;
+}
+.message .accord .accord-span {
+  padding-top: 18px;
+  display: flex;
+}
+.message .accord .accord-span span {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.message .accord .accord-span span h4 {
+  color: #435179;
+  font-size: 16px;
+  line-height: 0;
+}
+.message .accord .accord-span span p {
+  color: #747c93;
+  font-size: 12px;
+  line-height: 0;
+}
+
+.divider-mess {
+  border: 1px solid #ededed;
+  margin: 0px 20px;
+}
+
+.project {
+  color: #435179;
+  padding-bottom: 40px;
+  padding-top: 10px;
+}
+
+/*# sourceMappingURL=section-1.css.map */

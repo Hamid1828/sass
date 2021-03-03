@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f5f7fb;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,128 @@
+$main-color: rgba(67, 81, 121, 1);
+$secondary-color: rgba(116, 124, 147, 1);
+header {
+  .logo {
+    padding-left: 48px;
+    padding-top: 33px;
+  }
+  height: 1024px;
+  width: 371px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.select {
+  .head-span {
+    p {
+      color: $secondary-color;
+    }
+    h3 {
+      color: $main-color;
+    }
+    img {
+      padding-right: 18px;
+    }
+    display: flex;
+  }
+  span {
+    line-height: 5px;
+  }
+  display: flex;
+  justify-content: space-between;
+  padding: 18px 18px;
+  margin: 20px 38px;
+  border-radius: 15px;
+  background: white;
+}
+.dashbord {
+  h2 {
+    padding-left: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 20px 38px;
+  border-radius: 15px;
+  background: #6461f2;
+  display: flex;
+  padding-left: 38px;
+}
+.menu-item {
+  margin-left: 30px;
+  li {
+    padding: 0;
+    a {
+      text-decoration: none;
+      color: $main-color;
+      font-weight: 500;
+      font-size: 16px;
+    }
+    img {
+      padding-right: 20px;
+      padding-top: 10px;
+    }
+    margin-top: 50px;
+    list-style: none;
+  }
+}
+.divider {
+  opacity: 0.14;
+  border: 1px solid #435179;
+  margin: 0px 18px;
+}
+.schedule {
+  .dash-span-2 {
+    display: flex;
+    padding-left: 20px;
+    img {
+      padding-right: 16px;
+    }
+    p {
+      color: $secondary-color;
+      font-size: 14px;
+    }
+  }
+  .dash-span-3 {
+    p {
+      color: $main-color;
+      font-size: 16px;
+      line-height: 22px;
+      padding-right: 32px;
+    }
+    img {
+      padding-right: 16px;
+    }
+    display: flex;
+    padding-left: 20px;
+  }
+  .dash-span {
+    h2 {
+      color: $secondary-color;
+      padding-top: 15px;
+    }
+    p {
+      color: #6461f2;
+      font-size: 30px;
+      font-weight: bolder;
+    }
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+    padding-top: -35px;
+  }
+  h1 {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 24px;
+    color: $main-color;
+  }
+  background: #e4e8f4;
+  margin: 0px 20px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}

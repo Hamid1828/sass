@@ -1,0 +1,77 @@
+.earn {
+  margin-left: 50px;
+}
+.earn img {
+  z-index: 50;
+  transform: translate(86px, -241px);
+}
+.earn .result {
+  background: white;
+  height: 372px;
+  width: 299px;
+  border-radius: 15px;
+}
+.earn .result h3 {
+  padding-top: 23px;
+  padding-left: 32px;
+  color: #435179;
+  font-size: 16px;
+}
+.earn h1 {
+  color: #435179;
+  font-size: 24px;
+}
+
+.graphic {
+  margin-top: 10px;
+  display: flex;
+  padding: 0px 32px;
+}
+.graphic .bottom-brd {
+  border: 1px dashed #a9aebe;
+  width: 171px;
+  margin-left: 15px;
+  height: 0;
+  margin-top: 25px;
+}
+.graphic p {
+  color: #a9aebe;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.show {
+  cursor: pointer;
+  padding-left: 150px;
+  color: #747c93;
+}
+.show strong {
+  color: black;
+}
+
+.balance {
+  background: #6461f2;
+  height: 91px;
+  width: 299px;
+  border-radius: 15px;
+}
+.balance img {
+  transform: translate(210px, -45px);
+}
+.balance span p {
+  padding-top: 5px;
+  padding-left: 32px;
+  color: white;
+  line-height: 0;
+  font-size: 16px;
+}
+.balance span h1 {
+  padding-left: 32px;
+  padding-top: 28px;
+  line-height: 0;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+/*# sourceMappingURL=earn.css.map */
